@@ -33,6 +33,6 @@ build/
 .vscode/
 
 .mvn
-pom.xml
+
 mvnw.cmd
 
